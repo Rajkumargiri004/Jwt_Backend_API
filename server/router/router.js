@@ -11,4 +11,4 @@ router.post('/login',Loginuser)
 // forgot password api
 // router.post('/forgotpassword',forgotpasswordcntroler)
 
-// export default router
+export default router
